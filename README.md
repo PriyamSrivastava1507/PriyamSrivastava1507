@@ -32,4 +32,4 @@ I am open to collaborating on open-source and full-stack projects that emphasize
 
 Email: priyam.srivastava1575@gmail.com  
 LinkedIn: https://www.linkedin.com/in/priyam-srivastava-cse/  
-GitHub: https://github.com/PriyamSrivastava1507
+Leetcode: https://leetcode.com/u/PriyamSrivastava15/
