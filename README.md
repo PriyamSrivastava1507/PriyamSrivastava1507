@@ -4,16 +4,16 @@ Full-Stack Developer with a strong foundation in computer science fundamentals a
 
 ## About Me
 
-I am a Computer Science Engineering student with a strong academic background (CGPA 9.6) and a disciplined approach to learning software development. I have experience working with both frontend and backend technologies, designing RESTful APIs, and working with relational databases.
+I am a Computer Science Engineering student with a strong academic background (CGPA 9.43) and a disciplined approach to learning software development. I have experience working with both frontend and backend technologies, designing RESTful APIs, and working with relational databases.
 
 In parallel, I actively practice Data Structures and Algorithms and study core CS subjects such as operating systems, DBMS, and computer networks to strengthen my problem-solving and system-level understanding.
 
 ## Technical Skills
 
-**Languages:** Java, C++, JavaScript, Python (basic)  
+**Languages:** C++, JavaScript, TypeScript, Python  
 **Frontend:** HTML, CSS, Tailwind CSS, Bootstrap, React.js  
-**Backend & APIs:** Node.js, Express.js, RESTful APIs, JSON  
-**Databases:** PostgreSQL, MySQL  
+**Backend & APIs:** Node.js, Express.js, FastAPI, RESTful APIs, JSON  
+**Databases:** PostgreSQL  
 **Tools:** Git, GitHub, VS Code, Postman  
 **Core CS:** DSA, OOP, DBMS, Operating Systems, Computer Networks
 
